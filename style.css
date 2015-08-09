@@ -1,0 +1,185 @@
+body {
+    color: #d0e4fe;
+    background-image: url(suits1.jpg); 
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    font-family: helvetica, arial;
+    background-color: black
+}
+
+header {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: Times New Roman, Times, serif; 
+    font-size: 45pt; 
+    color: #2E2E2E; 
+    background-color: #808080; 
+    text-align: center;"
+}
+
+#Writer {
+	color: white
+	font-size: 50pt; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Links {
+	color: #610B0B ; 
+	font-size: 13pt; 
+	font-family: Times New Roman, Times, serif;
+	font-style: italic
+}
+
+#Section1{
+	text-align: center; 
+	color: #585858; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Main-Cast {
+	color: white; 
+	font-size: 15pt; 
+	font-family: Times New Roman, Times, serif
+
+}
+
+#Section2 {
+	text-align: center; 
+	color: #585858; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Plot {
+	color: white; 
+	font-size: 15pt; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Section3 {
+	text-align: center; 
+	color: #585858; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Gallery {
+	color: white; 
+	font-size: 15pt; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Image1 {}
+
+#Section4 {
+	text-align: center;
+}
+
+#Episodes {
+	font-style: italic; 
+	color: #610B0B; 
+	font-size: 17pt; 
+	font-family: Times New Roman, Times, serif;
+}
+
+#Image1 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image2 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image3 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image4 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image5 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image6 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image7 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image8 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image9 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image10 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image11 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image12 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image13 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image14 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+#Image15 {
+	border-style : solid ; 
+	border-width: 5px ; 
+	border-color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+
