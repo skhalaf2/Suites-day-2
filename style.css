@@ -14,63 +14,56 @@ header {
 
 h1 {
     font-family: Times New Roman, Times, serif; 
-    font-size: 45pt; 
+    font-size: 25pt; 
     color: #2E2E2E; 
-    background-color: #808080; 
+    background-color: white; 
     text-align: center;"
 }
 
-#Writer {
-	color: white
-	font-size: 50pt; 
-	font-family: Times New Roman, Times, serif;
-}
 
 #Links {
-	color: #610B0B ; 
+	color: #5F0303 ; 
 	font-size: 13pt; 
 	font-family: Times New Roman, Times, serif;
 	font-style: italic
 }
 
 #Section1{
-	text-align: center; 
-	color: #585858; 
+	text-align: center;
+	color: white; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Main-Cast {
-	color: white; 
+	color: #5F0303; 
 	font-size: 15pt; 
 	font-family: Times New Roman, Times, serif
 
 }
 
 #Section2 {
-	text-align: center; 
-	color: #585858; 
+	text-align: center;
+	color: #white; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Plot {
-	color: white; 
-	font-size: 15pt; 
+	color: #5F0303; 
+	font-size:15pt; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Section3 {
-	text-align: center; 
-	color: #585858; 
+	text-align: center;
+	color: white; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Gallery {
-	color: white; 
+	color: #5F0303; 
 	font-size: 15pt; 
 	font-family: Times New Roman, Times, serif;
 }
-
-#Image1 {}
 
 #Section4 {
 	text-align: center;
@@ -87,90 +80,105 @@ h1 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image2 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
-}
+	padding: 10px;
 
+}
 #Image3 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
-}
+	padding: 10px;
 
+}
 #Image4 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image5 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image6 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image7 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image8 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image9 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image10 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image11 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image12 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image13 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image14 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 #Image15 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
+	padding: 10px;
 }
 
 
@@ -182,4 +190,3 @@ h1 {
 <p>This is a paragraph.</p>
 
 </body>
-
