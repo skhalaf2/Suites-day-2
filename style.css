@@ -6,17 +6,32 @@ body {
     font-family: helvetica, arial;
     background-color: black
 }
+#allcontent {
+	width: 800px
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-left:100px;
+	margin-right:100px;
+	background-color: #C0C0C0;
+	margin-top: 580px;
+}
 
 header {
     text-align: center;
 
 }
 
+#Image0 {
+	position: absolute;
+	left:45px;
+	top:0px;
+}
+
 h1 {
     font-family: Times New Roman, Times, serif; 
     font-size: 25pt; 
     color: #2E2E2E; 
-    background-color: white; 
+    background-color:; 
     text-align: center;"
 }
 
@@ -30,12 +45,12 @@ h1 {
 
 #Section1{
 	text-align: center;
-	color: white; 
+	color: #2E2E2E; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Main-Cast {
-	color: #5F0303; 
+	color: #C80000 ; 
 	font-size: 15pt; 
 	font-family: Times New Roman, Times, serif
 
@@ -43,24 +58,26 @@ h1 {
 
 #Section2 {
 	text-align: center;
-	color: #white; 
+	color: #2E2E2E; 
+	margin-left: 220px;
+	margin-right: 220px;
 	font-family: Times New Roman, Times, serif;
 }
 
 #Plot {
-	color: #5F0303; 
+	color: #C80000 ; 
 	font-size:15pt; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Section3 {
 	text-align: center;
-	color: white; 
+	color: #2E2E2E; 
 	font-family: Times New Roman, Times, serif;
 }
 
 #Gallery {
-	color: #5F0303; 
+	color: #C80000 ; 
 	font-size: 15pt; 
 	font-family: Times New Roman, Times, serif;
 }
@@ -71,122 +88,49 @@ h1 {
 
 #Episodes {
 	font-style: italic; 
-	color: #610B0B; 
+	color: #C80000 ; 
 	font-size: 17pt; 
 	font-family: Times New Roman, Times, serif;
 }
 
-#Image1 {
+
+
+#Image1, #Image2, #Image3, #Image4, #Image5, #Image6, #Image7, #Image8, #Image9, #Image10, #Image11 {
 	border-style : solid ; 
 	border-width: 5px ; 
 	border-color: white;
-	padding: 10px;
-}
-
-#Image2 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+	padding: 5px;
 
 }
-#Image3 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
 
-}
-#Image4 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+
+.Picture1 {
+	float: left;
+	margin: 0px 0 10px 10px;
 }
 
-#Image5 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+.Picture2 {
+	float: left;
+	margin: 0px 0px 10px 10px;
 }
 
-#Image6 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+.Picture3 {
+	float:left;
+	margin: 0 10px 10px 10px;
 }
 
-#Image7 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+.Picture4 {
+	float:left;
+	margin: 0px 0 10px 10px;
 }
 
-#Image8 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image9 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image10 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image11 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image12 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image13 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image14 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
-}
-
-#Image15 {
-	border-style : solid ; 
-	border-width: 5px ; 
-	border-color: white;
-	padding: 10px;
+.Picture5 {
+	float:left;
+	margin: 0 0 10px 10px;
 }
 
 
-</style>
-</head>
-<body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
 
-</body>
+
+
